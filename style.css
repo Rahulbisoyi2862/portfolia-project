@@ -1,0 +1,398 @@
+*{
+	margin: 0;
+	padding: 0;
+  font-family: "Josefin Sans", sans-serif;
+}
+body{
+}
+#headdiv{
+	background-image: url(pexels-shvets-production-7533323.jpg);
+	background-size: cover; 
+	height: 500px;
+	display: flex;
+	justify-content: center;
+
+}
+#ancertag{
+/*	display: flex;*/
+	word-spacing: 10px;
+	font-size:20px;
+  
+}
+a{
+	text-decoration: none;
+	color: white;
+	
+}
+a:hover{
+	background-color: black;
+	border: solid rgb(227,11,92);
+	border-radius: 15px;
+	cursor: pointer;
+
+}
+#span1{
+	position: relative;
+	top: 50px;
+	right: 410px;
+	color: whitesmoke;
+	cursor: pointer;
+}
+.lia{
+	color: rgb(227,11,92);
+}
+#span2{
+	position: relative;
+	left: 700px;
+	color: white;
+    cursor: pointer;
+/*	border-radius: 15px;*/
+}
+ h3{
+ 	 width: 70px;
+/* 	 height: 10px;*/
+ 	border: solid  rgb(227,11,92);
+    border-radius: 10px;
+   background-color: rgb(227,11,92);
+    
+  }
+  h3:hover{
+  	background-color: black;
+  	border: rgb(227,11,92) solid 1px;
+  	 
+  }
+  #name{
+  	position: relative;
+  	right: 405px;
+  	top: 100px;
+  }
+  #h2{
+    font-size: 40px;
+    position: relative;
+    top: 12px;
+  }
+  #h1{
+  	font-size: 25px;
+
+  }
+  #Rahul{
+  	color: white;
+  }
+  #Bisoyi{
+  	color: rgb(227,11,90);
+  }
+  h4{
+  	color: rgb(253,188,180);
+  }
+  #h42{
+  	position: relative;
+  	top: 12px;
+  }
+
+  input{
+  	outline: none;
+  	border-radius: 10px;
+  	position: relative;
+  	top: 130px;
+  position: relative;
+  right: 405px;
+  height: 25px;
+  width: 260px;
+
+  }
+  button{
+  	background-color: rgb(227,11,90);
+  	border: solid 1px rgb(227,11,90);
+  	height: 25px;
+  	border-radius: 8px;
+  	position: relative;
+    top: 130px;
+    right: 480px;
+/*     bottom: 40px;*/
+    color: white;
+    width: 70px;
+  }
+  button:hover{
+  	background-color: black;
+  }
+  #surchBar{
+  	
+  }
+/*                  end home page*/
+
+
+  #about{
+  	background-color: #191919;
+  	width: 100;
+  	padding:40px 0px ;
+   
+  }
+  #img2{
+  	height: 500px;
+  	width: 400px;
+  	position: relative;
+  	left: 100px;
+     box-shadow: -8px -8px 15px  rgb(255, 255, 255, 0.1);
+  }
+  #aboutmain{
+
+  }
+  #aboutmain{
+   width: 500px;
+   color: white;
+   position:relative ;
+   left: 600px;
+   bottom: 480px;
+
+  }
+  #text{
+  	position: relative;
+  	top: 40px;
+  }
+  #aboutspan{
+  	font-size: 45px;
+  }
+  #spandevp{
+  	position: relative;
+  	top: 10px;
+  	font-size: 20px;
+  }
+  #anddesigen{
+  	color: rgb(227,11,90);
+  }
+  #button2{
+    	background-color: rgb(227,11,90);
+  	border: solid 1px rgb(227,11,90);
+  	height: 25px;
+  	border-radius: 8px;
+  	position: relative;
+    top: 130px;
+    right: 8px;
+     bottom: 400px;
+    color: white;
+    width: 70px;
+  }
+  #button2:hover{
+  	background-color: black;
+  }
+
+          /*          end about page*/
+  #user{
+    background-color: #101010;
+    color: white;
+    position: relative;
+    bottom: 215px;
+      height: 624px;
+/*      width: 100%;*/
+  }
+  #userMain{
+  
+    width: 220px;
+    height: 240px;
+    padding: 23px;
+    border: 1px solid  #191919;
+    border-radius: 15px;
+    background-color:  #191919;
+   position: relative;
+   top: 270px;
+   left: 170px;
+   bottom: 60px;
+   text-align: center;
+   cursor: pointer;
+   box-shadow:  -4px -4px 15px rgb(227,11,90);
+  }
+  #our{
+    font-size: 45px;
+    color: aqua;
+    position: relative;
+    top: 100px;
+    left: 500px;
+    text-decoration: none;
+    text-shadow: -4px -4px 15px rgb(227,11,90);
+  }
+  #puser{
+    align-items: center;
+    position: relative;
+    top: 40px;
+  }
+  #red{
+    border: rgb(227,11,90) 1px solid;
+    border-radius: 14px;
+    background-color: rgb(227,11,90);
+    color: white;
+  }
+
+  #i{
+    color: rgb(227,11,90);
+    font-size: 33px;
+ 
+  }
+  #web{
+    font-size: 25px;
+    position: relative;
+    bottom: 15px;
+  }
+  
+  #maincard{
+    background-color: #191919;
+    border: solid 1px  #191919;
+    border-radius: 15px;
+    width: 220px;
+    height: 240px;
+    position: relative;
+    bottom: 515px;
+    left: 496px;
+    padding: 20px;
+    box-shadow:  -4px -4px 15px rgb(227,11,90);
+     cursor: pointer;
+
+
+  }
+  #ptag{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 50px;
+
+  }
+  #web2{
+    font-size: 25px;
+    position: relative;
+    bottom: 15px;
+  }
+  #man{
+    color: rgb(227,11,90);
+    font-size: 33px;
+    position: relative;
+    left: 45%;
+    top: 5px;
+  }
+/*                                  the and 2card*/
+  #hero{
+    background-color:#191919 ;
+    border: solid 1px #191919;
+    border-radius: 15px;
+/*    box-shadow:  -4px -4px 15px rgb(227,11,90);*/
+    width: 255px;
+    height:280px ;
+    position: relative;
+    bottom: 500px;
+    left: 810px;
+    bottom: 800px;
+/*    align-items: center;*/
+    text-align: center;
+     box-shadow:  -4px -4px 15px rgb(227,11,90);
+  }
+ #rb{
+  color: white;
+  position: relative;
+  top: 90px;
+ }
+  /*#alekha{
+    font-size: 33px;
+    color: white;
+  }*/
+  #alekha{
+    font-size: 25px;
+    position: relative;
+    bottom: 25px;
+  }
+  #mamata{
+    color: rgb(227,11,90);
+    font-size: 33px;
+    position: relative;
+    top:25px ;
+  }
+/*                              the and 3card*/
+
+  #mainb{
+    background-color: #191919;
+    height: 250px;
+    width: 100%;
+    position: absolute;
+    bottom: -1328px;
+    text-align: center;
+  }
+  #b{
+    position: relative;
+    right: 70px;
+  }
+  #babula{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 100px;
+
+  }
+  #ranjan{
+    width: 100px;
+    height: 30px;
+    border-radius: 25px;
+    position: relative;
+    left:80px;
+    top: 150px;
+
+  }
+/*                    and*/
+  #rl{
+     background-color: #101010;
+     height: 535px;
+     width: 100%;
+     color: white;
+     position: absolute;
+     bottom: -1860px;
+  }
+  #cl{
+    width: 270px;
+    text-align: center;
+    position: relative;
+    left: 40%;
+    top: 200px;
+  }
+  #rs1{
+    position: relative;
+    bottom: 25px;
+    font-size: 26px;
+  }
+  #sai{
+
+  }
+  #ritu{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    bottom: -1700px;
+    left: 250px;
+  }
+#Creater{
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  bottom: -1750px;
+  left: 230px;
+}
+#yi{color: rgb(227,11,90);
+}
+#price{
+  color: white;
+  word-spacing: 5px;
+  position: relative;
+  top: 10px;
+}
+#love{
+  color: rgb(227,11,90);
+/*  background-color: rgb(227,11,90);*/
+  font-size: 37px;
+  position: relative;
+  top: 3px;
+
+}
+marquee{
+  color: rgb(227,11,90);
+  position: relative;
+  bottom: 30px;
+  font-size: 25px;
+}
+#mark{
+  width: 500px;
+}
